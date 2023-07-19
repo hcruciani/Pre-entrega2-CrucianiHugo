@@ -3,9 +3,7 @@
     padding: 0%;
     box-sizing: border-box;
 }
-body {
-    margin-top: 0%;
-}
+
 html {
     font-size: 62.5%;
 }
@@ -261,7 +259,7 @@ html {
 
 body {
     margin: 0;
-    margin-top: 8rem;
+   
 }
 
 .container {
@@ -418,3 +416,13 @@ i {
 
 
 }
+form-container {
+    margin-bottom: 20px;
+    
+}
+
+#foot {
+    margin-top: 20rem;
+    
+}
+
