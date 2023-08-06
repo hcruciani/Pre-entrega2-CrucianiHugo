@@ -1,0 +1,32 @@
+// _header.scss
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10rem;
+    flex-wrap: wrap;
+    background-color: black;
+
+    .header_logo {
+        width: 450px;
+        height: 140px;
+    }
+
+    .header_menu_link {
+        display: flex;
+        gap: 5rem;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 5px;
+        font-size: x-large;
+        list-style: none;
+        margin-right: 5rem;
+    }
+
+    #header_link_text a {
+        font-weight: bold;
+        color: yellow;
+        text-decoration: none;
+    }
+}
